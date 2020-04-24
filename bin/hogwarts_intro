@@ -3,4 +3,4 @@
 require_relative '../lib/hogwarts_intro'
 
 
-CLI.new.start
+HogwartsIntro::CLI.new.start
